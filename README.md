@@ -12,7 +12,7 @@ Linguagens & Frameworks
 
 💼 LinkedIn: Seu Nome
 
-📧 E-mail: seu-email@exemplo.com
+📧 E-mail: josuethibes1@gmai.com
 
  ## tecnologias 
  linguagem: python, javascript, c, c++, c#, .net...
