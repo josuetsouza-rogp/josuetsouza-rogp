@@ -1,14 +1,18 @@
-# titulo 
-## subtítulo
-** negrito **
-- item (item lista)
-- [texto.(https://link.com). - link clicavel
-- ![descrição] (link-da-imagem). - imagem
+Olá, eu sou o Josué!
 
-- ## olá, eu sou Josué 
- estudante de desenvolvimento de sistemas - Senai 
- programação e desenvolvimento web
+Estudante de Desenvolvimento de Sistemas no Senai, apaixonado por programação e desenvolvimento web. Busco constantemente aprender novas tecnologias e construir soluções eficientes.
 
+🛠️ Tecnologias e Ferramentas
+
+Linguagens & Frameworks
+
+📊 Minhas Estatísticas no GitHub
+
+📬 Como me encontrar
+
+💼 LinkedIn: Seu Nome
+
+📧 E-mail: seu-email@exemplo.com
 
  ## tecnologias 
  linguagem: python, javascript, c, c++, c#, .net...
